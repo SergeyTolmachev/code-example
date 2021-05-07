@@ -46,7 +46,7 @@
     "sequelize": "^5.18.2",
     "sequelize-cli": "^5.5.0",
     "tmp-promise": "1.0.5",
-    "underscore": "^1.9.1",
+    "underscore": "^1.12.1",
     "unrar-promise": "^2.0.0",
     "validator": "10.11.0",
     "winston": "3.2.1",
